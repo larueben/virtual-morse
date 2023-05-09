@@ -1,18 +1,30 @@
-# assistive-technology
+# virtual-morse
 
-Senior Capstone project from the Spring 2023 semester at UAF.
+## Description
 
-🔐 Kanban Board: https://github.com/users/andrewsng/projects/1
+This section for description
 
-## Development Instructions
+## How to Install
 
-- Software Requirements
-- Hardware Capabilities
+### Download from (?)
 
-#### Branch Management
+### Folder to install to (?)
 
-- `main` → production ready environment.
-- `dev` → testing changes to be merged into `main`.
+### Port Settings
 
-## Architecture Diagram
-![Virtual Morse 2023 - Architecture Diagram](docs/virtual-morse-2023-architecture.svg)
+### .env
+
+- location
+- settings
+
+### Auto run
+
+
+## Credits
+
+
+## License
+
+## What's new this version
+
+
