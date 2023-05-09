@@ -14,6 +14,8 @@ The interface between the switch device and the computer is an Arduino Uno.  Eac
 
 The program is written in C# and uses .NET framework.  The email integration is via MailKit.  The program provides a simple text doc window where the text generation occurs.  There is also always an active console window helpful for troubleshooting and testing, though the user does not interact with or need any of the console-displayed info to operate the system.
 
+*Please see the Wiki for a complete description of the system including all of the program features and an operating instructions.*
+
 ## How to Install
 
 ### Download from (?)
