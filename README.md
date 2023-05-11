@@ -55,10 +55,34 @@ The program is written in C# and uses .NET framework.  The email integration is 
 
 
 ## Credits
+The original Virtual Morse system was conceived of and named by Josh LaRue in the mid-1990's. An inventor named Tom in the Cambridge, OH area built the first switch device and helped Josh with some ways to incorporate into a computer.
+Jack LaRue developed the original software in collaboration with Josh in the late-90's, with continued imrpovements over the next 15 years. See https://github.com/jackdlarue/virtual-morse
+
+Virtual Morse 2023 was a complete rebuild from scratch to work in a modern Windows environment and provide some much needed improvements. A team of four students studying Computer Science at the University of Alaska, Fairbanks (UAF) took the project on as a Senior Capstone class project. See https://github.com/andrewsng/assistive-technology  
+Virtual Morse v2023.0.0 was completed May 4th 2023 by:
+- Andrew Ng
+- Jacob Jakiemiec
+- Solomon Himelbloom
+- Travis Winterton
 
 
-## License
 
 ## What's new this version
+- The previous version of Virtual Morse operated in Wndows XP.  Version 2023 is compatible through Windows 11 and 
+built with .Net Framework and using MailKit for email integration.
+- Programmed in C#.
+- The external switch device is interfaced to the PC through an Arduino as opposed to a gamepad controller.  The signals are numeric corresponding to the switches instead of gamepad signals.
+- There is an additional command mode for punctuation shortcuts.
+- Added safegaurd against clearing the screen by requiring confirmation.
+- Additional document clearing safegaurd where each cleared document goes to a "dumping ground" folder for retrieval if needed.
+- Email reply functionality was added.
+- "New" email tracking when checking email has been removed (not relevant since the days of having to dial up and download email.)
+- During readback of an email or most other announcements, text-to-speech readback can be stopped by pressing any switch, such as Space.
+- Email address book is in an easily accessible .csv file and can be manually edited if needed.
+- Streamlined test-to-speech readout of email header info.
+- Specific user settings can be modified in an environment variables file, for email account and printer info.
+
+
+
 
 
