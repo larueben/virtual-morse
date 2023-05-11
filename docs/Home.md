@@ -1,4 +1,4 @@
-Welcome to the [Virtual Morse 2023] wiki! 
+Welcome to the [Virtual Morse 2023](https://github.com/andrewsng/assistive-technology/blob/main/README.md) wiki! 
 
 This serves as a reference guide for the Spring 2023 senior capstone project at the [University of Alaska Fairbanks](https://www.cs.uaf.edu/).
 
