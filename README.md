@@ -2,7 +2,7 @@
 
 ## Description
 
-Virtual Morse is an assistive technology system for writing and communicating written text. It was custom built for a user with a particular combination of impairments following a brain injury. The user is legally blind and without motor control or dexterity to operate keyboards or many other computer interfaces.  
+Virtual Morse is an assistive technology system for writing and communicating written text. It was custom built for a user with a particular combination of impairments following a brain injury. The user is legally blind, unable to speak clearly and without motor control or dexterity to operate keyboards or many other computer interfaces.  
 
 The core of the program is to allow the user to write to a simple text document. From there, the user can carry out basic text document operations like save, clear and print. There is also a suite of email functions, allowing the user to check, read, delete, or create and send emails. Feedback to the user is through text-to-speech and other spoken announcements based on what operations are performed.
 
