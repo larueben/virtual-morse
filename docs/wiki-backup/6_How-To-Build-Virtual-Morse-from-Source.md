@@ -12,6 +12,7 @@
 ## How to build a complete Release Package
 * Complete the above steps.
 * Copy the Arduino folder from C:\Users\user\Source\Repos\virtual-morse\src (or the most recent Arduino .ino file) to the Release folder.
+* Copy the Wiki-backup folder from C:\Users\user\Source\Repos\virtual-morse\docs and add to the release folder.
 * Make a copy of the Release folder, rename to Virtual Morse (and the latest version number) and create a .zip file.
 * In the Github repository, go to releases, draft new release.
 * Add a new tag or use one with the correct version #, like 2023.0.0.
