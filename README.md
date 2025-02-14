@@ -79,7 +79,7 @@ built with .Net Framework and using MailKit for email integration.
 - "New" email tracking when checking email has been removed (not relevant since the days of having to dial up and download email.)
 - During readback of an email or most other announcements, text-to-speech readback can be stopped by pressing any switch, such as Space.
 - Email address book is in an easily accessible .csv file and can be manually edited if needed.
-- Streamlined test-to-speech readout of email header info.
+- Streamlined text-to-speech readout of email header info.
 - Specific user settings can be modified in an environment variables file, for email account and printer info.
 
 
